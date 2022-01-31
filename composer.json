@@ -1,0 +1,17 @@
+{
+    "name": "no4ch/ide-error",
+    "description": "Example error in IDE PHPStorm",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "no4ch",
+            "email": "vk202164356@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    }
+}
